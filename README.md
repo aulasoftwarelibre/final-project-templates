@@ -1,2 +1,2 @@
-project-documentation
+Templates for final project
 =====================
